@@ -1,0 +1,48 @@
+.Bhai{
+  text-align: center;
+  color:black;
+  background-color: #fff;
+
+  
+
+}
+.one{
+  width: 50%;
+
+  }
+
+.two{
+  width: 50%;
+  float: right;
+}
+.three{
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+}
+.four{
+  width: 50%;
+  height: 50%;
+}
+body{
+  background-image:url(Screenshot\ \(147\).png) ;
+}
+/* .gift{
+  width: 40px;
+  height: 40px;
+} */
+
+.gift1{
+  float: right;
+
+  padding-top: 200px;
+  padding-bottom: 200px;
+  color:black;
+  background-color:white;
+  width: 50%;
+  height: 50%;
+  /* margin-bottom: 50%; */
+  margin: auto;
+  border-radius: 2000px;
+  
+}
